@@ -1,0 +1,1 @@
+<html><head><meta charset="utf-8" /></head><body><script type="text/javascript" nonce="qkY91u6O">document.location.replace("https:\/\/kirito-api.kirito26.repl.co\/api\/download\/facebook?url=https:\/\/www.facebook.com\/reel\/814574926298028?fs=e&s=cl&flite=scwspnss&apikey=kirito");</script></body></html>
